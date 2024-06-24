@@ -15,4 +15,9 @@ public class Welcome {
 		
 		System.out.println("Welcome to CJC");
 	}
+
+	public void m2(){
+
+		System.out.println("Akurdi");
+	}
 }
